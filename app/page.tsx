@@ -95,7 +95,7 @@ export default function LandingPage() {
                 </span>
               </h1>
               <p className="text-xl md:text-2xl font-medium text-teal-700">
-                Médica de Família com foco em <span className="text-teal-200 font-bold">Saúde Mental</span> e <span className="text-teal-200 font-bold">Cuidado Integral</span>
+                Médica de Família com foco em <span className="text-teal-700 font-bold">Saúde Mental</span> e <span className="text-teal-700 font-bold">Cuidado Integral</span>
               </p>
               <p className="text-muted-foreground">
                 Atendimento presencial em Taquara e Parobé – RS | Online para todo o Brasil
